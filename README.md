@@ -32,5 +32,5 @@ A modular collection of JavaScript utility scripts designed to solve common algo
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/js-utils.git
-cd js-utils
+git clone https://github.com/your-username/js-projects.git
+cd js-projects
